@@ -9,7 +9,7 @@ Turning complex systems into actionable insights. Passionate about innovation, m
 While completing my PhD in biophysics, I had the chance to work closely with startup incubation initiatives. Seeing how early‑stage ideas are evaluated, funded, and transformed into real companies sparked my interest in investment. I found myself drawn to the analytical side of those decisions — the data, the modeling, the risk assessment. Over time, I realized I wanted to move into a field where this kind of quantitative reasoning is central. That’s why I’m transitioning into finance: it’s a space where rigorous analysis meets real‑world impact.
 
 ### ⭐ Curated projects
-#### **Derivative volatility** | NumPy, Pandas, SciPy, PyTorch | https://github.com/ValVal-Data/Volatility | 2026
+#### **Derivative volatility prediction** | NumPy, Pandas, SciPy, PyTorch | https://github.com/ValVal-Data/Volatility | 2026
 - Developed a deep learning framework for forecasting option implied volatility surfaces using Convolutional Neural Networks
 - Used SSVI surface as a reference to generate historical volatility surfaces from underlying asset market features.
 - Built complete CI/CD pipeline with GitHub Actions and containerized application with Docker.
