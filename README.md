@@ -19,13 +19,13 @@ While completing my PhD in biophysics, I had the chance to work closely with sta
 - Implemented volatility modelling, GARCH, stress testing and scenario analysis workflows for risk analytics.
 - Built reproducible model validation and backtesting workflows, translating complex outputs into clear risk insights.
 
-#### **Systematic thematic long-only protfolio** | NumPy, Pandas, SciPy | https://github.com/ValVal-Data/Thematic | 2026
-- Built a systematic long-only thematic portfolio strategy with volatility, VaR and exposure constraints.
+#### **Systematic thematic long-only protfolio** | NumPy, Pandas, SciPy, FastAPI, SQL, Streamlit | https://github.com/ValVal-Data/Thematic | 2026
+- Developing an interactive portfolio management tool with FastAPI, SQL, Streamlit and Plotly dashboards.
 - Implemented a Bayesian maximum-entropy optimization approach and backtested the strategy.
 - Developed reusable Python pipelines for data preparation, scoring, optimization and performance analysis.
 
 ### 💻 Core Technical Skills
-- Python (Numpy, Pandas, SciPy, Matplotlib)
+- Python (Numpy, Pandas, SciPy, Matplotlib, Plotly, FastAPI, Streamlit)
 - SQL (PostgreSQL)
 - C++ (cmath, vector, random)
 - Machine Learning (scikit-learn)
